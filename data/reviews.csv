@@ -1,0 +1,23 @@
+review_id,product_id,customer_id,rating,review_text,review_date,helpful_count
+1,1,7,5,Outstanding! Exceeded my expectations.,2025-08-22,10
+2,2,8,4,"Not bad, but could be better.",2025-09-09,15
+3,2,13,5,Very happy with this purchase.,2025-10-23,21
+4,3,5,5,"Good product overall, minor issues.",2025-08-26,10
+5,4,14,5,"Not bad, but could be better.",2025-08-19,9
+6,5,13,4,Great product! Highly recommend.,2025-11-08,7
+7,6,10,5,Good quality and fast shipping.,2025-09-16,13
+8,6,15,5,"Not bad, but could be better.",2025-08-16,12
+9,7,7,4,"Good product overall, minor issues.",2025-08-17,0
+10,7,15,5,Very happy with this purchase.,2025-10-31,24
+11,9,4,4,Perfect! Exactly what I needed.,2025-09-08,14
+12,9,1,5,"Top quality product, highly recommended!",2025-10-29,14
+13,10,13,4,"Decent product, meets expectations.",2025-09-03,19
+14,12,13,5,Outstanding! Exceeded my expectations.,2025-09-10,13
+15,12,14,5,Amazing quality! Will buy again.,2025-10-24,23
+16,13,8,4,"Not bad, but could be better.",2025-08-24,8
+17,13,13,5,Amazing quality! Will buy again.,2025-08-25,7
+18,14,8,3,Excellent value for money!,2025-10-14,8
+19,14,6,4,"Decent product, meets expectations.",2025-11-03,4
+20,15,4,4,Exactly as described. Very satisfied.,2025-10-17,2
+21,16,7,4,Amazing quality! Will buy again.,2025-09-21,1
+22,16,4,5,"Good product, but shipping took a while.",2025-08-31,22

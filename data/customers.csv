@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,email,phone,address,city,state,zip_code,registration_date
+1,Daniel,Brown,daniel.brown1@email.com,225-959-5506,4112 Oak St,Los Angeles,PA,23434,2024-12-02
+2,Lisa,Williams,lisa.williams2@email.com,804-632-1520,588 Main St,Los Angeles,CA,76237,2025-01-09
+3,James,Miller,james.miller3@email.com,933-865-9928,6973 Oak St,Houston,AZ,46463,2025-11-10
+4,Jennifer,Anderson,jennifer.anderson4@email.com,548-484-3547,3627 Elm St,New York,NY,59797,2025-09-25
+5,Barbara,Lopez,barbara.lopez5@email.com,818-470-1711,7627 Maple St,New York,TX,20328,2025-02-04
+6,Elizabeth,Lopez,elizabeth.lopez6@email.com,791-396-2139,850 Oak St,San Antonio,IL,20458,2025-07-17
+7,Patricia,Wilson,patricia.wilson7@email.com,484-664-6977,2764 Elm St,Chicago,CA,97841,2025-06-30
+8,Matthew,Williams,matthew.williams8@email.com,823-850-3803,8851 Oak St,Los Angeles,TX,59735,2025-06-28
+9,Daniel,Davis,daniel.davis9@email.com,901-532-1916,3852 Main St,San Antonio,IL,62581,2025-06-29
+10,John,Miller,john.miller10@email.com,780-935-6155,3583 Park St,Houston,PA,70142,2025-09-01
+11,William,Jones,william.jones11@email.com,452-962-9830,4404 Maple St,Houston,AZ,62350,2025-05-12
+12,Linda,Jones,linda.jones12@email.com,721-705-2489,871 Main St,Los Angeles,PA,30969,2024-11-30
+13,Susan,Williams,susan.williams13@email.com,594-590-8668,8769 Elm St,Phoenix,FL,11504,2024-11-30
+14,Lisa,Brown,lisa.brown14@email.com,898-749-5371,5673 Main St,Chicago,TX,30730,2025-03-26
+15,James,Rodriguez,james.rodriguez15@email.com,712-980-3927,8417 Main St,San Antonio,PA,49117,2024-12-21

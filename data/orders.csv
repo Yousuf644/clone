@@ -1,0 +1,13 @@
+order_id,customer_id,order_date,status,shipping_address,shipping_city,shipping_state,shipping_zip
+1,5,2025-10-02,Delivered,8056 Park St,Los Angeles,TX,17685
+2,6,2025-08-08,Pending,6496 Elm St,Houston,IL,65444
+3,7,2025-10-05,Processing,4961 Oak St,New York,AZ,81066
+4,7,2025-10-29,Shipped,1036 Main St,Phoenix,TX,75909
+5,7,2025-07-01,Processing,1031 Main St,Los Angeles,NY,87992
+6,9,2025-08-02,Pending,9433 Oak St,Phoenix,AZ,15209
+7,11,2025-05-29,Cancelled,9360 Elm St,Chicago,CA,97782
+8,11,2025-08-25,Processing,4451 Park St,Los Angeles,IL,69929
+9,11,2025-08-25,Pending,252 Park St,Phoenix,AZ,23104
+10,13,2025-07-07,Shipped,2270 Elm St,New York,CA,58434
+11,14,2025-10-04,Delivered,9000 Elm St,Phoenix,AZ,11025
+12,14,2025-05-27,Cancelled,5005 Main St,Los Angeles,IL,25129
